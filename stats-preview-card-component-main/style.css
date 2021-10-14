@@ -37,3 +37,60 @@ h3 {
     font-size: 1.4em;
     padding-right: 2em;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+
+        margin-top: 0em;
+    }
+
+    h1 {
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        margin-top: 2em;
+    }
+
+    span {
+        color: rgb(176, 118, 231);
+    }
+
+    p {
+        color: rgba(255, 255, 255, 0.741);
+        font-size: 0.9em;
+        text-align: center;
+    }
+
+
+    h2 {
+        color: white;
+        font-size: 1.7em;
+        display: flex;
+
+
+    }
+
+    .three {
+        padding-right: 2.69em;
+    }
+
+    .two {
+        padding-right: 2.9em;
+    }
+
+    h3 {
+        color: rgba(255, 255, 255, 0.599);
+        font-size: 1.2em;
+        padding-right: 2em;
+        margin-bottom: 2em;
+    }
+
+    img {
+        width: 22em;
+        margin-top: 2em;
+    }
+
+    .off {
+        padding-left: 1.1em;
+    }
+}
