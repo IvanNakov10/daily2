@@ -1,0 +1,39 @@
+body {
+    background-color: #1c1938;
+    margin-top: 11em;
+}
+
+h1 {
+    color: white;
+}
+
+span {
+    color: rgb(176, 118, 231);
+}
+
+p {
+    color: rgba(255, 255, 255, 0.741);
+    font-size: 1.3em;
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+    display: flex;
+
+    margin-top: 2em;
+}
+
+.three {
+    padding-right: 2.69em;
+}
+
+.two {
+    padding-right: 2.9em;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.599);
+    font-size: 1.4em;
+    padding-right: 2em;
+}
